@@ -6,7 +6,8 @@
 
 # Modelagem de Sistema de Divulgação de Jogos.
 
-![2023-09-28 (2)](https://github.com/uFelippeSilva/tarefa01bd/assets/112040769/28c459de-8c6f-4763-919c-0ba6c1671031)
+![2023-09-28 (0)](https://github.com/uFelippeSilva/tarefa01bd/assets/112040769/2b9f95ba-e348-47b8-99c4-55d1cca0525a)
+
 
 # esquema relacional do sistema feito acima.
 
